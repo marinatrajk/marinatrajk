@@ -25,6 +25,7 @@ One agent for one person, that actually remembers you. I ship growth experiments
 
 ## Projects
 
+- 👾 [**tiny-world**](https://github.com/marinatrajk/tiny-world) - A tiny 3D town with six big personalities controlled by Jev.
 - 💬 [**chat-mockup**](https://github.com/marinatrajk/chat-mockup) - animated mobile chat interaction built with React + Vite + Motion.
 - 📐 [**cad-drawing-ai**](https://github.com/marinatrajk/cad-drawing-ai) - AI-powered 3D STEP to 2D DXF manufacturing drawing generator.
 
