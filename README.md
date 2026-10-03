@@ -14,7 +14,7 @@ One agent for one person, that actually remembers you. I ship growth experiments
 
 ## Start here
 
-- 🧠 [**Vellum**](https://github.com/vellum-ai/vellum-assistant) - a personal intelligence layer that you own, control, and improve.
+- 🧠 [**Assistant Benchmark**](https://github.com/marinatrajk/assistant-benchmark) - Open, evidence-reviewed benchmarks for AI assistants.
 
 ## Agent Tools
 
