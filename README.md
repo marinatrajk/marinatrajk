@@ -2,7 +2,7 @@
 
 📍 New York | 🧠 Building personal AI agents | 🚀 GTM Engineer @ [Vellum](https://vellum.ai)
 
-One agent for one person, that actually remembers you. I ship growth experiments, community plugins, and agent tooling in the open.
+I ship growth experiments, community plugins, and agent tooling in the open. Help people become AI native.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
