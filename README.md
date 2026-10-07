@@ -28,6 +28,8 @@ I ship growth experiments, community plugins, and agent tooling in the open. Hel
 - 👾 [**tiny-world**](https://github.com/marinatrajk/tiny-world) - A tiny 3D town with six big personalities controlled by Jev.
 - 💬 [**chat-mockup**](https://github.com/marinatrajk/chat-mockup) - animated mobile chat interaction built with React + Vite + Motion.
 - 📐 [**cad-drawing-ai**](https://github.com/marinatrajk/cad-drawing-ai) - AI-powered 3D STEP to 2D DXF manufacturing drawing generator.
+- 💼 [**odyseek-ai**](https://www.odyseek.com/) - An AI career coach that stays with you through the search, the offer, and every promotion after.
+
 
 ## Writing
 
