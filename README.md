@@ -14,7 +14,7 @@ I ship growth experiments, community plugins, and agent tooling in the open. Hel
 
 ## Start here
 
-- 🧠 [**Assistant Benchmark**](https://github.com/marinatrajk/assistant-benchmark) - Open, evidence-reviewed benchmarks for AI assistants.
+- 🧠 [**Best AI Agent**](https://github.com/marinatrajk/assistant-benchmark) - Open, evidence-reviewed benchmarks for AI assistants.
 
 ## Agent Tools
 
