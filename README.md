@@ -1,6 +1,6 @@
 # Hi, I'm Marina 👋
 
-📍 New York | 🧠 Building personal AI agents | 🚀 GTM Engineer @ [Vellum](https://vellum.ai)
+📍 New York | 🧠 Building personal AI agents | 🚀 Solutions architect (Applied AI) @ [Vellum](https://vellum.ai)
 
 I ship growth experiments, community plugins, and agent tooling in the open. Help people become AI native.
 
