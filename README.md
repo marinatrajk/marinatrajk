@@ -18,6 +18,7 @@ I ship growth experiments, community plugins, and agent tooling in the open. Hel
 
 ## Agent Tools
 
+- 📊 [**Jeff AI**](https://github.com/marinatrajk/jeff-ai) - Building my own personal assistant.
 - 📊 [**geo-audit**](https://github.com/marinatrajk/geo-audit) - audit how AI models answer category questions and whether your brand shows up.
 - 🛠️ [**ai-hero-engineer-kit**](https://github.com/marinatrajk/ai-hero-engineer-kit) - five engineering skills for agents, one plugin install.
 - 🎁 [**assistant-wrapped**](https://github.com/marinatrajk/assistant-wrapped) - Spotify-Wrapped-style year-in-review for your Vellum assistant.
