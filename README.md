@@ -1,6 +1,6 @@
 # Hi, I'm Marina 👋
 
-📍 NY/SF | 🧠 Building personal AI agents | 🚀 Solutions architect (Applied AI) @ [Vellum](https://vellum.ai)
+📍 NY/SF | 🧠 Building personal AI agents | 🚀 AI Solutions & Enablement @ [Vellum](https://vellum.ai)
 
 I ship growth experiments, community plugins, and agent tooling in the open. Help people become AI native.
 
