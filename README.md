@@ -26,7 +26,7 @@ I ship growth experiments, community plugins, and agent tooling in the open. Hel
 
 ## Projects
 
-- 👾 [**Voicepen AI**](https://github.com/marinatrajk/voicepen) - Turn every audio/video into a blog post.
+- 👾 [**Voicepen AI**](https://voicepen.ai) - Turn every audio/video into a blog post.
 - 🦹🏻‍♀️ [**tiny-world**](https://github.com/marinatrajk/tiny-world) - A tiny 3D town with six big personalities controlled by Jev.
 - 💬 [**chat-mockup**](https://github.com/marinatrajk/chat-mockup) - animated mobile chat interaction built with React + Vite + Motion.
 - 📐 [**cad-drawing-ai**](https://github.com/marinatrajk/cad-drawing-ai) - AI-powered 3D STEP to 2D DXF manufacturing drawing generator.
