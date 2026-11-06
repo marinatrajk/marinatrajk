@@ -1,6 +1,6 @@
 # Hi, I'm Marina 👋
 
-📍 NY/SF | 🧠 Building personal AI agents | 🚀 AI Solutions & Enablement @ [Vellum](https://vellum.ai)
+📍 NY/SF | 🧠 Building personal AI agents | 🚀 AI Product Eng & Enablement @ [Vellum](https://vellum.ai)
 
 I ship growth experiments, community plugins, and agent tooling in the open. Help people become AI native.
 
@@ -13,11 +13,11 @@ I ship growth experiments, community plugins, and agent tooling in the open. Hel
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-10A37F?style=flat&logo=openai&logoColor=white)
 
 ## Start here
-
-- 🧠 [**Best AI Agent**](https://github.com/marinatrajk/assistant-benchmark) - Open, evidence-reviewed benchmarks for AI assistants.
+https://marinatrajkovska.com/
 
 ## Agent Tools
 
+- 🧠 [**Best AI Agent**](https://github.com/marinatrajk/assistant-benchmark) - Open, evidence-reviewed benchmarks for AI assistants.
 - 🤖 [**Jeff AI**](https://github.com/marinatrajk/jeff-ai) - Building my own personal assistant.
 - 📊 [**geo-audit**](https://github.com/marinatrajk/geo-audit) - audit how AI models answer category questions and whether your brand shows up.
 - 🛠️ [**ai-hero-engineer-kit**](https://github.com/marinatrajk/ai-hero-engineer-kit) - five engineering skills for agents, one plugin install.
