@@ -24,8 +24,9 @@ I ship growth experiments, community plugins, and agent tooling in the open. Hel
 - 🎁 [**assistant-wrapped**](https://github.com/marinatrajk/assistant-wrapped) - Spotify-Wrapped-style year-in-review for your Vellum assistant.
 - 🎙️ [**telegram-voice-transcribe**](https://github.com/marinatrajk/telegram-voice-transcribe) - transcribe Telegram voice notes into your assistant conversation.
 
-## Projects
+## AI Projects
 
+- 🤖 [**Tiktok to Higgsfield**](https://github.com/marinatrajk/tiktok-higgsfield) - Paste a TikTok link, get a video of your own characters doing it. 
 - 👾 [**Voicepen AI**](https://voicepen.ai) - Turn every audio/video into a blog post.
 - 🦹🏻‍♀️ [**tiny-world**](https://github.com/marinatrajk/tiny-world) - A tiny 3D town with six big personalities controlled by Jev.
 - 💬 [**chat-mockup**](https://github.com/marinatrajk/chat-mockup) - animated mobile chat interaction built with React + Vite + Motion.
