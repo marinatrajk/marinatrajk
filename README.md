@@ -26,6 +26,7 @@ https://marinatrajkovska.com/
 
 ## AI Projects
 
+- 📈 [**ChatGPT Rank**](https://github.com/marinatrajk/chatgpt-rank) - See whether ChatGPT recommends your brand: asks the real chatgpt.com your shopper queries and reports yes or no for each. 
 - 🤖 [**Tiktok to Higgsfield**](https://github.com/marinatrajk/tiktok-higgsfield) - Paste a TikTok link, get a video of your own characters doing it. 
 - 👾 [**Voicepen AI**](https://voicepen.ai) - Turn every audio/video into a blog post.
 - 🦹🏻‍♀️ [**tiny-world**](https://github.com/marinatrajk/tiny-world) - A tiny 3D town with six big personalities controlled by Jev.
