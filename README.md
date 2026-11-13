@@ -26,6 +26,7 @@ https://marinatrajkovska.com/
 
 ## AI Projects
 
+- 🎥 [**ClippyLab**](https://clippylab.com) - The AI clipper for viral TikToks
 - 📈 [**ChatGPT Rank**](https://github.com/marinatrajk/chatgpt-rank) - See whether ChatGPT recommends your brand: asks the real chatgpt.com your shopper queries and reports yes or no for each. 
 - 🤖 [**Tiktok to Higgsfield**](https://github.com/marinatrajk/tiktok-higgsfield) - Paste a TikTok link, get a video of your own characters doing it. 
 - 👾 [**Voicepen AI**](https://voicepen.ai) - Turn every audio/video into a blog post.
